@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+Operations manual for singletrail-map.eu
+======================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
