@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'singletrail-map.eu'
+copyright = '2021, info@singletrail-map.eu'
+author = 'info@singletrail-map.eu'
 
 release = '0.1'
 version = '0.1.0'
@@ -25,11 +25,13 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
+
 templates_path = ['_templates']
 
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+#html_theme = 'alabaster'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
